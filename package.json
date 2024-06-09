@@ -11,7 +11,6 @@
   "dependencies": {
     "fast-speedtest-api": "^0.3.2",
     "fastify": "^4.27.0",
-    "fs": "^0.0.1-security",
     "ping": "^0.4.4"
   }
 }
